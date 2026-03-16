@@ -12,6 +12,19 @@ export const resumeData = {
     ]
   },
   experience: [
+      {
+      company: "Running Up for Air",
+      role: "Capstone Project, Software Engineer",
+      dates: "Aug 2025 - Present",
+      location: "Boulder, CO",
+      bullets: [
+        "Building an mobile app for trail runners and long-distance hikers using React Native and TypeScript.",
+        "Designed features that let users import GPX/KML routes, track distance and ETA to upcoming checkpoints, and monitor progress along a trail in real time.",
+        "Implemented route-aware pace tracking so users can see whether they are ahead or behind their planned target pace.",
+        "Added terrain insights such as uphill, downhill, and flat segments to help users better understand upcoming route conditions.",
+        "Focused on on-device processing, GPS-based updates, and local data storage to ensure the app remains reliable even without internet access."
+      ]
+    },
     {
       company: "University of Colorado Boulder",
       role: "Course Manager",
